@@ -1,0 +1,24 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Common Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+*.pot
+*.py[cod]
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
