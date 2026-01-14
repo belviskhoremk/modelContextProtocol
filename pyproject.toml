@@ -1,0 +1,13 @@
+[project]
+name = "modelcontextprotocol"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "arxiv>=2.2.0",
+    "langchain>=0.3.27",
+    "langchain-openai>=0.3.33",
+    "mcp>=1.14.1",
+    "nest-asyncio>=1.6.0",
+]
